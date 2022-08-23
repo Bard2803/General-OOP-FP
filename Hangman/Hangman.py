@@ -16,7 +16,7 @@ Created on Tue Mar  2 17:20:14 2021
 
 import random
 
-WORDLIST_FILENAME = "D:\GIT\Hangman\words.txt"
+WORDLIST_FILENAME = "D:\GIT\General-OOP-FPP\Hangman\words.txt"
 
 def loadWords():
     """
